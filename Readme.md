@@ -4,6 +4,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BastienCouder&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+Je garde généralement mon code en privé pour des raisons de confidentialité, mais je suis ouvert à le partager et à en discuter lors d'entretiens.
+
 ---
 [![](https://visitcount.itsvg.in/api?id=BastienCouder&icon=0&color=0)](https://visitcount.itsvg.in)
 
